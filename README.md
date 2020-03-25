@@ -1,9 +1,13 @@
-## Tutorial Design Personal Research
+## The T word that everybody skips
 ### Introduction
-As we all now, the first impresion that a player has with a game is very important, because it can determine whether the player gets engaged with the game and continue playing or leaves the game due to the lack of persuasion and fun of those first minutes of the game.
-Tutorials are most of the times the first thing that comes into contact with the player, so they must provide, apart from many other things, the suficient persuacion, fun and entertaining to maintain the player engaged with the game.
+As we all now, the first impresion that a player has with a game is very important, because it can determine whether the player gets engaged with the game and continue playing or leaves the game due to the lack of persuasion and fun of those first minutes.
+Tutorials are most of the times the first thing that comes into contact with the player, so they must provide, apart from the main goal of a tutorial, the suficient persuasion, fun and entertainment to maintain the player engaged with the game.
 
+##### General Problems
+Before explaining which is the main goal of a tutorial and what it consists of, I think it is important to explain a general problems that happens sometimes.
+As they must be a very short fragment of the game and have to concentrate a lot of information, they sometimes happen to bore the players or even make him feel overwhelmed with so much information. Apart from that, even if the game is awesome, if the tutorial is not good it can affect the whole player experience.
 
+### Tutorial Main Goal
 
 
 You can use the [editor on GitHub](https://github.com/silvino00/TutorialDesign/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
