@@ -22,6 +22,13 @@ Apart from all that, it is important to take into account that a tutorial does n
 Let's take a look at different ways of tackling this, from worst to best, and see what we can learn from them.
 
 #### **No tutorial**
+This is the worst kind of tutorial. Due to some years ago phisycal distribution was the only way of distribution, companies took advantage of it introducing a paper manual where all the controls, mechanics and information of the game were explained. By using this strategy they didn't have to introduce a tutorial in the game itself, players oly had to read the instruction manual.
+
+Nowadays, due to digital distribution is becoming more and more comon this strategy can not be done, so lots of companies decide not to introduce a tutorial and let the players discover how the game works by themselves. In some cases this can work, but in many others players can´t understand some specific aspects of the game, which can affect their experience playing it.
+
+A good example is Darksiders 2, because like any game with a loot system, has lots of statistics that define the player character. Some are staples of the genre and pretty easy to understand (health, strength, defence), but there is one particular stat (Arcane) that has no obvious meaning, which makes it a little bit more difficult to understand and consequently affect the game experience.
+
+
 
 
 You can use the [editor on GitHub](https://github.com/silvino00/TutorialDesign/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
