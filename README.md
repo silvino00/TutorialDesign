@@ -28,7 +28,8 @@ Nowadays, due to digital distribution is becoming more and more comon this strat
 
 A good example is the way stats are handled in Darksiders 2, because like any game with a loot system, has lots of statistics that define the player character. Some are staples of the genre and pretty easy to understand (health, strength, defence), but there is one particular stat (Arcane) that has no obvious meaning and there is no way for the player to know for sure without looking outside the game for information.
 
-<img src="https://github.com/silvino00/TutorialDesign/blob/master/Images/Darksiders_stats.png"  height="300"></img>
+![Image of Darksiders](https://github.com/silvino00/TutorialDesign/blob/master/Images/Darksiders_stats.png)
+
 
 #### **Tutorial by exposition**
 We can define this type of tutorial as the easiest one to implement and one of the least effective. The tutorial by exposition is any tutorial which consists of telling or showing the player how something is done outside of actual gameplay. This includes, but is not limited to, the likes of text explanations prefacing gameplay and the traditional “controls” screen.
@@ -36,14 +37,14 @@ As I said earlier, this type of tutorial is not very effective, and can even cau
 - The first one is because normally when people see this "controls" screens don't want to read it and tend to pass it away.
 - The second one is because even if you spend some time reading it, once the gameplay starts people typically don't remember what they have just read.
 
-<img src="https://github.com/silvino00/TutorialDesign/blob/master/Images/just_cause_controls.png"  height="300"></img>
+![Image of JustCause](https://github.com/silvino00/TutorialDesign/blob/master/Images/just_cause_controls.png)
 
 This leads us to the biggest issue with this tutorial type: context. Mechanics and controls for games can often be quite numerous and complicated, but the player is typically eased into them through the context of relevant gameplay scenarios. Attempting to present the player with most or all of the information up front will simply lead to them not understanding or not remembering most of it.
 The two ways games with this tutorial type typically tackle this issue is to either present particular information only when it is relevant, or to allow their tutorial to be constantly revisited by a menu. Both of these approaches are annoying and hurt pacing by constantly stopping gameplay.
 
 A good example of this is just about any Devil May Cry game which, like any other beat-‘em-up, has a move list. Constantly needing to pause the game to look at this menu and remember the commands required for certain moves is really annoying. Unfortunately, this type of thing can be difficult to avoid, as walking the player through the use of every possible move would be extremely tedious.
 
-<img src="https://github.com/silvino00/TutorialDesign/blob/master/Images/maxresdefault.jpg"  height="300"></img>
+![Image of DevilMayCry](https://github.com/silvino00/TutorialDesign/blob/master/Images/maxresdefault.jpg)
 
 
 
