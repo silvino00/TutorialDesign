@@ -54,6 +54,7 @@ When thinking about tutorials, what comes to mind at firstis tutorial's romm typ
 A perfect example would be the tutorial for Jamestown: Legend of the Lost Colony, an indie scrolling shooter made by Final Form Games.
 This specific tutorial perfectly depicts the essence of the tutorial room and why it can be an effective way of showing a player how your game works. The tutorial is short and everything you are told is clearly demonstrated.
 
+![Jamestown](https://github.com/silvino00/TutorialDesign/blob/master/Images/Jamestown.gif?raw=true)
 
 Althoug this seems the perfect way to do a tutorial, is far from it. It can be a very good way to show players how a game works in simple games with easy and simple mechanics, but in certain types of games with more complex mechanics it 
 may not be as effective.
