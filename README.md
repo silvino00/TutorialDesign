@@ -37,7 +37,7 @@ As I said earlier, this type of tutorial is not very effective, and can even cau
 - The first one is because normally when people see this "controls" screens don't want to read it and tend to pass it away.
 - The second one is because even if you spend some time reading it, once the gameplay starts people typically don't remember what they have just read.
 
-![Image of JustCause](https://github.com/silvino00/TutorialDesign/blob/master/Images/just_cause_controls.png)
+![Image of JustCause](https://raw.githubusercontent.com/silvino00/TutorialDesign/master/Images/just_cause_controls.png)
 
 This leads us to the biggest issue with this tutorial type: context. Mechanics and controls for games can often be quite numerous and complicated, but the player is typically eased into them through the context of relevant gameplay scenarios. Attempting to present the player with most or all of the information up front will simply lead to them not understanding or not remembering most of it.
 The two ways games with this tutorial type typically tackle this issue is to either present particular information only when it is relevant, or to allow their tutorial to be constantly revisited by a menu. Both of these approaches are annoying and hurt pacing by constantly stopping gameplay.
@@ -46,10 +46,17 @@ A good example of this is just about any Devil May Cry game which, like any othe
 
 ![Image of DevilMayCry](https://github.com/silvino00/TutorialDesign/blob/master/Images/maxresdefault.jpg)
 
+#### **Tutorial room**
+The tutorial room is a section of gameplay that walks the player through the actions they need to know in order to play. This almost always takes place in a separate area or level not seen in any actual gameplay, and is quite frequently optional.
+
+When thinking about tutorials, what comes to mind at firstis tutorial's romm type, because it was the most used one during the last console generation, and is also one of the only types of tutorial which is often called a tutorial in-game.
+
+A perfect example would be the tutorial for Jamestown: Legend of the Lost Colony, an indie scrolling shooter made by Final Form Games.
+This specific tutorial perfectly depicts the essence of the tutorial room and why it can be an effective way of showing a player how your game works. The tutorial is short and everything you are told is clearly demonstrated.
 
 
-
-
+Althoug this seems the perfect way to do a tutorial, is far from it. It can be a very good way to show players how a game works in simple games with easy and simple mechanics, but in certain types of games with more complex mechanics it 
+may not be as effective.
 
 
 You can use the [editor on GitHub](https://github.com/silvino00/TutorialDesign/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
