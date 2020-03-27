@@ -28,7 +28,7 @@ Nowadays, due to digital distribution is becoming more and more comon this strat
 
 A good example is the way stats are handled in Darksiders 2, because like any game with a loot system, has lots of statistics that define the player character. Some are staples of the genre and pretty easy to understand (health, strength, defence), but there is one particular stat (Arcane) that has no obvious meaning and there is no way for the player to know for sure without looking outside the game for information.
 
-![Image of Darksiders](https://github.com/silvino00/TutorialDesign/blob/master/Images/Darksiders_stats.png)
+![Image of Darksiders](https://raw.githubusercontent.com/silvino00/TutorialDesign/master/Images/Darksiders_stats.png)
 
 
 #### **Tutorial by exposition**
@@ -44,7 +44,7 @@ The two ways games with this tutorial type typically tackle this issue is to eit
 
 A good example of this is just about any Devil May Cry game which, like any other beat-‘em-up, has a move list. Constantly needing to pause the game to look at this menu and remember the commands required for certain moves is really annoying. Unfortunately, this type of thing can be difficult to avoid, as walking the player through the use of every possible move would be extremely tedious.
 
-![Image of DevilMayCry](https://github.com/silvino00/TutorialDesign/blob/master/Images/maxresdefault.jpg)
+![Image of DevilMayCry](https://github.com/silvino00/TutorialDesign/blob/master/Images/maxresdefault.jpg?raw=true)
 
 #### **Tutorial room**
 The tutorial room is a section of gameplay that walks the player through the actions they need to know in order to play. This almost always takes place in a separate area or level not seen in any actual gameplay, and is quite frequently optional.
