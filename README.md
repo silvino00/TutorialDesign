@@ -26,9 +26,9 @@ This is the worst kind of tutorial. Due to some years ago phisycal distribution 
 
 Nowadays, due to digital distribution is becoming more and more comon this strategy can not be done, so lots of companies decide not to introduce a tutorial and let the players discover how the game works by themselves. In some cases this can work, but in many others players can´t understand some specific aspects of the game, which can affect their experience playing it.
 
-A good example is Darksiders 2, because like any game with a loot system, has lots of statistics that define the player character. Some are staples of the genre and pretty easy to understand (health, strength, defence), but there is one particular stat (Arcane) that has no obvious meaning, which makes it a little bit more difficult to understand and consequently affect the game experience.
+A good example is the way stats are handled in Darksiders 2, because like any game with a loot system, has lots of statistics that define the player character. Some are staples of the genre and pretty easy to understand (health, strength, defence), but there is one particular stat (Arcane) that has no obvious meaning and there is no way for the player to know for sure without looking outside the game for information.
 
-
+<img src="https://github.com/silvino00/TutorialDesign/blob/master/Images/Darksiders_stats.png"  height="300"></img>
 
 
 You can use the [editor on GitHub](https://github.com/silvino00/TutorialDesign/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
