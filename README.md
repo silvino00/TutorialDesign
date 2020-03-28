@@ -109,47 +109,29 @@ A very important thing to take into acount is that not everybody acquire informa
 This concret model identifies 4 differents types of learners: Visual, Auditory, Physical(kinesthetic) and Social. The idea is to keep in mind all of them by representing ideas with images for Visual learners, making use of audio feedback for Auditory learners, let them learn through trial and error for Physical learners and finally let them see others fail for Social learners.
 
 #### --> **Balance the experience**
+- Comfort: The fact that the player feels comfortable and feels that he can experiment, practice and doesn't feel like there are unnecessary elements  is very important. The objective is to don't overflow the screen with things he doesn't undestand or doesn't have to yet. The perfect definition would be to keep things clear as much clear and simple as you can.
+
+- Excite: Show him the possibilities that your gameplay has, not only the easiest part or the simplest part. Your game will probably start with a battle with simple soldiers and will end with a dragon battle, so show the player a little hint of what is going to come after.
+
+- Respect: Don't treat the player as a robot that given a command repeats exactly the same one. The goal is to ask them to do something and let them figure it out.
+
+- Teach: As it's obvious, the objective is that the player ends up with all things clear, so by letting them learn by themselves this objective will arrive easilly.
+
+![Balance the experience](https://github.com/silvino00/TutorialDesign/blob/master/Images/venn_diagram.png?raw=true)
 
 #### --> **Use mechanics to teach mechanics**
+Instead of teaching a player one specific mechanic of the game by sending him a pop up with a text explaining what to do, it's better to show it to him by an existent mechanic that the player already knows.
+For example,  we want to teach that behind some walls there is hidden treasure, but they have to be destroyed first. We can use a pop-up with a text explaining what to do, but as we said before we want to avoid texts and we want to use a mechanic to explain it. So, the perfect way of doing it is by adding an enemy just in front of the wall and let the player kill him and inevitably reach the wall, destroying it and revealing the treasure. 
+By doing this, we haven't said a word, we haven't pointed anything, the player itself discovered it and now he's feeling smart.
 
 #### --> **Extra tips**
+- People don't like to read, and as the saying goes, an image is worth than a thousand words, so try to write down the least words as possible.
+
+- Don't be tasteless. Don't ruin your game aesthetic with unecessary "tutorial" elements like pop-ups, moving arrows, glowing fingers, etc.
+
+- Make the most important information always accesible. Although overinformation can be overwhelming, the lack of it is confusing and undesirable, so try to add an "info" tab on the menu or something that can give the necessary information to the player in any moment of the game.
+
+### **Conclusion**
 
 
-
-
-
-You can use the [editor on GitHub](https://github.com/silvino00/TutorialDesign/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/silvino00/TutorialDesign/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### **Bibliography**
