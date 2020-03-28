@@ -84,14 +84,27 @@ Two examples of games that perfectly reflect this type of tutorials and that are
 
 ![Mario](https://github.com/silvino00/TutorialDesign/blob/master/Images/MarioBros.JPG?raw=true)
 
-### **How to make your tutorial amazing**
+### **How to make an amazing tutorial**
 In this section I am going to show you some tips to make your tutorial better and make the players not want to pass it.
+
 #### --> **People don't want to be teached**
-Something very important to keep in mind is that when someone run a game only want play. Most of the people come from work, shcool or just a long day of working, so what they want is forget everything and stop paying attention to anything else.
+Something very important to keep in mind is that when someone run a game only want play. Most of the people come from work, shcool or just a long day of working, so what they want is forget everything and stop paying attention to anything else. So that, the perfect tip would be "Don't teach, but let them learn". A perfect way of doing this is by aplying the tangencial learning, which is a process by which people self-educate if a topic is exposed to them in a context that they already enjoy.
 
 #### --> **Keep the flow going**
+First of all it's important to explain what "flow" in videogames means. We can define it as a mental state where a person is absolutely concentrated, unaware of the surroundings and using every mental process on what they are doing. The objective is that the player does not even realize that he has been playing for two hours.
+
+So, by aplying this concept, our objective is reaching a flowing tutorial by increasing the challenge as the player gets skilled. Put across a challenge. Let the player deal with it. Put another once he has reached the ability to overcome it. Flow between the overwhelm of a new challenge, the light struggle to complete it and the excitement of overcome.
+
+![Learning Curve](https://github.com/silvino00/TutorialDesign/blob/master/Images/Learning_curve.png?raw=true)
+
+A perfect example of a perfect learning curve would be Portal. The entire game is basically a tutorial on how to beat it, except it expertly frames the learning as gameplay. Portal challenges by crafting puzzles around new mechanics and new applications of existing mechanics. 
+It allows all the time players need to get comfortable with the controls or to think about how to solve the next puzzle, and it scales the difficulty by simply incrementing the complexity.
+And finally, for me the best about this game is that what you learn by completing one specific puzzle is needed to figure the next one, making it a perfect way to improve your skills in each level.
+
+![Portal](https://github.com/silvino00/TutorialDesign/blob/master/Images/Portal.jpg?raw=true)
 
 #### --> **Not everyone learns in the same way**
+
 
 #### --> **Balance the experience**
 
