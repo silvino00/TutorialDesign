@@ -21,7 +21,7 @@ Apart from all that, it is important to take into account that a tutorial does n
 ### **Tutorial Formats**
 Let's take a look at different ways of tackling this, from worst to best, and see what we can learn from them.
 
-#### **No tutorial**
+#### --> **No tutorial**
 This is the worst kind of tutorial. Due to some years ago phisycal distribution was the only way of distribution, companies took advantage of it introducing a paper manual where all the controls, mechanics and information of the game were explained. By using this strategy they didn't have to introduce a tutorial in the game itself, players oly had to read the instruction manual.
 
 Nowadays, due to digital distribution is becoming more and more comon this strategy can not be done, so lots of companies decide not to introduce a tutorial and let the players discover how the game works by themselves. In some cases this can work, but in many others players can´t understand some specific aspects of the game, which can affect their experience playing it.
@@ -31,7 +31,7 @@ A good example is the way stats are handled in Darksiders 2, because like any ga
 ![Image of Darksiders](https://raw.githubusercontent.com/silvino00/TutorialDesign/master/Images/Darksiders_stats.png)
 
 
-#### **Tutorial by exposition**
+#### --> **Tutorial by exposition**
 We can define this type of tutorial as the easiest one to implement and one of the least effective. The tutorial by exposition is any tutorial which consists of telling or showing the player how something is done outside of actual gameplay. This includes, but is not limited to, the likes of text explanations prefacing gameplay and the traditional “controls” screen.
 As I said earlier, this type of tutorial is not very effective, and can even cause more confusion than it does clarity. This can be produced by two diferent reeasons:
 - The first one is because normally when people see this "controls" screens don't want to read it and tend to pass it away.
@@ -46,7 +46,7 @@ A good example of this is just about any Devil May Cry game which, like any othe
 
 ![Image of DevilMayCry](https://github.com/silvino00/TutorialDesign/blob/master/Images/maxresdefault.jpg?raw=true)
 
-#### **Tutorial room**
+#### --> **Tutorial room**
 The tutorial room is a section of gameplay that walks the player through the actions they need to know in order to play. This almost always takes place in a separate area or level not seen in any actual gameplay, and is quite frequently optional.
 
 When thinking about tutorials, what comes to mind at firstis tutorial's romm type, because it was the most used one during the last console generation, and is also one of the only types of tutorial which is often called a tutorial in-game.
@@ -58,7 +58,7 @@ This specific tutorial perfectly depicts the essence of the tutorial room and wh
 
 Althoug this seems the perfect way to do a tutorial, is far from it. It can be a very good way to show players how a game works in simple games with easy and simple mechanics, but in certain types of games with more complex mechanics it may not be as effective.
 
-#### **The contextual lesson**
+#### --> **The contextual lesson**
 The contextual lesson type is basically a system where the one tutorial room is chopped into little pieces and added organically throughout the gameplay of a title.
 
 The biggest drawback of this type of tutorials is that the game will simply wait for you to press an specific button and won't let you progress until you have done it. The problem is that this can become a little bit monotonous and boring and although in the case of Uncharted 3 is very short and the player doesn't usually end up bored in others games maybe it is not like that.
@@ -73,7 +73,7 @@ This includes things like arrow keys being carved on the back of a cave wall at 
 
 ![Spelunky](https://github.com/silvino00/TutorialDesign/blob/master/Images/spelunky_context_tutorial.png?raw=true)
 
-#### **No tutorial**
+#### --> **No tutorial**
 At the begining we started with a tutorial type called "No tutorial", and now we are anding with another one called "No tutorial". It may seem like this doesn't make no sense at all, but it actually has a lot of sense. Just as the first tutorial type is the worst one, having no tutorial at all is also the best, and this has everything to do with the inherent nature of video games.
 
 A tutorial fundamentally shows an explanation of all the rules of the game, showing the player all the information needed to understand it and overcoming obstacles. Just like in any other type of game, the fun in video games comes from actually playing them, rather than learning how each game works.
