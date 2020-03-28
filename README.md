@@ -56,8 +56,33 @@ This specific tutorial perfectly depicts the essence of the tutorial room and wh
 
 ![Jamestown](https://github.com/silvino00/TutorialDesign/blob/master/Images/Jamestown.gif?raw=true)
 
-Althoug this seems the perfect way to do a tutorial, is far from it. It can be a very good way to show players how a game works in simple games with easy and simple mechanics, but in certain types of games with more complex mechanics it 
-may not be as effective.
+Althoug this seems the perfect way to do a tutorial, is far from it. It can be a very good way to show players how a game works in simple games with easy and simple mechanics, but in certain types of games with more complex mechanics it may not be as effective.
+
+#### **The contextual lesson**
+The contextual lesson type is basically a system where the one tutorial room is chopped into little pieces and added organically throughout the gameplay of a title.
+
+The biggest drawback of this type of tutorials is that the game will simply wait for you to press an specific button and won't let you progress until you have done it. The problem is that this can become a little bit monotonous and boring and although in the case of Uncharted 3 is very short and the player doesn't usually end up bored in others games maybe it is not like that.
+
+A very good example of this type of tutorial is Uncharted 3. in this game, the gameplay is briefly paused and instructions on what buttons perform the action immediately required pop up on screen. This part of the tutorial is incredibly short, because it only presents what you need to know at the specific moment by sending pop ups, and this part of the gameplay has literally no impact in the rest of the game, it is only done for the tutorial.
+
+![Uncharted3](https://github.com/silvino00/TutorialDesign/blob/master/Images/Uncharted_3_Walkthrough.gif?raw=true)
+
+There is a subtype of the contextual lesson type called "The thematically relevant contextual lesson". The difference between both of them is that this subtype is generally presented in a thematically relevant way during gameplay, rather that the usual one used.
+
+This includes things like arrow keys being carved on the back of a cave wall at the beginning of a platformer, or the spacebar and a little jumping guy being drawn on the wall before a platformer's first ledge, or even squad mates telling you how to take cover when you enter your first firefight. This kind of tutorial is awesome because it's incredibly easy to implement and feels really slick, with instructions blending seamlessly with the gameplay experience.
+
+![Spelunky](https://github.com/silvino00/TutorialDesign/blob/master/Images/spelunky_context_tutorial.png?raw=true)
+
+#### **No tutorial**
+At the begining we started with a tutorial type called "No tutorial", and now we are anding with another one called "No tutorial". It may seem like this doesn't make no sense at all, but it actually has a lot of sense. Just as the first tutorial type is the worst one, having no tutorial at all is also the best, and this has everything to do with the inherent nature of video games.
+
+A tutorial fundamentally shows an explanation of all the rules of the game, showing the player all the information needed to understand it and overcoming obstacles. Just like in any other type of game, the fun in video games comes from actually playing them, rather than learning how each game works.
+
+However, due to their guided nature, video games present an opportunity unseen in most other forms of games: the ability to include the teaching aspect as part of the game itself. That's where not having a tutorial comes in.
+
+Two examples of games that perfectly reflect this type of tutorials and that are more than known in our society are the Super Mario Bross saga and Pacman. None of them have a tutorial but both of them show the players how to play the videogame. In the image below we can see how Super Mario Bross show the players that they can duble jump. What they do is to add a series of coins in such a way that it shows the player that there is an option to take them all. At that moment, the player realizes that there must be a double jump that allows him to perform that specific action.
+
+![Mario](https://github.com/silvino00/TutorialDesign/blob/master/Images/MarioBros.JPG?raw=true)
 
 
 You can use the [editor on GitHub](https://github.com/silvino00/TutorialDesign/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
