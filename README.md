@@ -84,6 +84,24 @@ Two examples of games that perfectly reflect this type of tutorials and that are
 
 ![Mario](https://github.com/silvino00/TutorialDesign/blob/master/Images/MarioBros.JPG?raw=true)
 
+### **How to make your tutorial amazing**
+In this section I am going to show you some tips to make your tutorial better and make the players not want to pass it.
+#### --> **People don't want to be teached**
+Something very important to keep in mind is that when someone run a game only want play. Most of the people come from work, shcool or just a long day of working, so what they want is forget everything and stop paying attention to anything else.
+
+#### --> **Keep the flow going**
+
+#### --> **Not everyone learns in the same way**
+
+#### --> **Balance the experience**
+
+#### --> **Use mechanics to teach mechanics**
+
+#### --> **Extra tips**
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/silvino00/TutorialDesign/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
