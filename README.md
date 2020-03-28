@@ -104,7 +104,9 @@ And finally, for me the best about this game is that what you learn by completin
 ![Portal](https://github.com/silvino00/TutorialDesign/blob/master/Images/Portal.jpg?raw=true)
 
 #### --> **Not everyone learns in the same way**
+A very important thing to take into acount is that not everybody acquire information in the same way, because each person has its own way of learning. This concret topic has been studied by lots of psycchologists and some of them afirm that there are more than 70 ways of learning, but we are going to focus on the Vark model. 
 
+This concret model identifies 4 differents types of learners: Visual, Auditory, Physical(kinesthetic) and Social. The idea is to keep in mind all of them by representing ideas with images for Visual learners, making use of audio feedback for Auditory learners, let them learn through trial and error for Physical learners and finally let them see others fail for Social learners.
 
 #### --> **Balance the experience**
 
