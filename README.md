@@ -7,6 +7,8 @@ Tutorials are most of the times the first thing that comes into contact with the
 Before explaining which is the main goal of a tutorial and what it consists of, I think it is important to explain a general problems that happens sometimes.
 As they must be a very short fragment of the game and have to concentrate a lot of information, they sometimes happen to bore the players or even make him feel overwhelmed with so much information. Apart from that, even if the game is awesome, if the tutorial is not good it can affect the whole player experience.
 
+![Press A to skip](https://github.com/silvino00/TutorialDesign/blob/master/Images/pressAtoskip.png?raw=true)
+
 ### **Tutorial Main Objective**
 The main objective of a tutorial is to introduce the player all the information that he will need in orther to have a great experience during the game. Within all this information we include the context were the player is going to be inmersed, the mechanics and obviously the controls of the game. 
 
@@ -132,6 +134,13 @@ By doing this, we haven't said a word, we haven't pointed anything, the player i
 - Make the most important information always accesible. Although overinformation can be overwhelming, the lack of it is confusing and undesirable, so try to add an "info" tab on the menu or something that can give the necessary information to the player in any moment of the game.
 
 ### **Conclusion**
+If you think about a really blowing mind tutorial you might have some trouble, since the most likely is that all the tutorials you have played in your life contained a series of elements that bored you or that you wanted to pass. This does not mean that there aren't good tutorials, but those that are good, people don't tend to remember them, since they are made in such a way that they do not give rise to think that they are a tutorial.
 
+The best tutorial is the one nobody remembers.
 
 ### **Bibliography**
+* [Tutorial types](https://gamedevelopment.tutsplus.com/tutorials/the-many-ways-to-show-the-player-how-its-done-with-in-game-tutorials--gamedev-400)
+* [This is a Talk About Tutorials, Press A to Skip](https://www.youtube.com/watch?v=VM1pV_6IE34)
+* [7 games with great learning curves that all developers should study](https://www.gamasutra.com/view/news/273302/7_games_with_great_learning_curves_that_all_developers_should_study.php)
+* [The Perfect Video Game Tutorial: Six Flavors for the Ideal Appetizer](https://www.gamasutra.com/blogs/CarlosValenzuela/20200228/358904/The_Perfect_Video_Game_Tutorial_Six_Flavors_for_the_Ideal_Appetizer.php)
+* [Video Game Tutorials: How Do They Teach?](https://www.gamasutra.com/blogs/NathanHedges/20171013/307378/Video_Game_Tutorials_How_Do_They_Teach.php)
