@@ -27,7 +27,7 @@ Tutorials are most of the times the first thing that comes into contact with the
 Before explaining which is the main goal of a tutorial and what it consists of, I think it is important to explain a general problems that happens sometimes.
 As they must be a very short fragment of the game and have to concentrate a lot of information, they sometimes happen to bore the players or even make him feel overwhelmed with so much information. Apart from that, even if the game is awesome, if the tutorial is not good it can affect the whole player experience.
 
-![Art Bible](https://github.com/silvino00/TutorialDesign/blob/master/Images/pressAtoskip.png)
+<img src="https://github.com/silvino00/TutorialDesign/blob/master/Images/pressAtoskip.png?raw=true" height="350">
 
 ### **Tutorial Main Objective**
 The main objective of a tutorial is to introduce the player all the information that he will need in orther to have a great experience during the game. Within all this information we include the context were the player is going to be inmersed, the mechanics and obviously the controls of the game. 
