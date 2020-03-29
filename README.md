@@ -2,7 +2,7 @@
 ### **Index**
 * [Introduction](https://github.com/silvino00/TutorialDesign#introduction)
 * [General problems](https://github.com/silvino00/TutorialDesign#general-problems)
-* [Tutorial types](https://github.com/silvino00/TutorialDesign#tutorial-formats)
+* [Tutorial types](https://github.com/silvino00/TutorialDesign#tutorial-types)
 * [How to make an amazing tutorial](https://github.com/silvino00/TutorialDesign#how-to-make-an-amazing-tutorial)
 * [Conclusion](https://github.com/silvino00/TutorialDesign#conclusion)
 * [Bibliography](https://github.com/silvino00/TutorialDesign#bibliography)
