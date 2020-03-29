@@ -1,4 +1,4 @@
-I am <https://www.linkedin.com/in/silvino-medina-cardona-476558197/>(Silvino Medina Cardona), student of the <https://www.citm.upc.edu/ing/estudis/graus-videojocs/>(Bachelor’s Degree in Video Games by UPC at CITM). This content is generated for the second year’s subject Project 2, under supervision of lecturer <https://www.linkedin.com/in/mgarrigo/>(Marc Garrigó).
+I am [Silvino Medina Cardona](https://www.linkedin.com/in/silvino-medina-cardona-476558197/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Marc Garrigó](https://www.linkedin.com/in/mgarrigo/).
 
 # **The T word that everybody skips**
 ### **Index**
