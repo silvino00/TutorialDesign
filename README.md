@@ -22,8 +22,8 @@ I am [Silvino Medina Cardona](https://www.linkedin.com/in/silvino-medina-cardona
 * [Bibliography](https://silvino00.github.io/TutorialDesign/#bibliography)
 
 ### **Introduction**
-As we all now, the first impression that a player has with a game is very important, because it can determine whether the player gets engaged with the game and continue playing or leaves the game due to the lack of persuasion and fun of those first minutes.
-Tutorials are most of the times the first thing that comes into contact with the player, so they must provide, apart from the main goal of a tutorial, the suficient persuasion, fun and entertainment to maintain the player engaged with the game.
+As we all know, the first impression that a player has with a game is very important, because it can determine whether the player gets engaged with the game and continue playing or leaves the game due to the lack of persuasion and fun of those first minutes.
+Tutorials are most of the times the first thing that the player comes into contact with, so they must provide, apart from the main goal of a tutorial, the suficient persuasion, fun and entertainment to maintain the player engaged with the game.
 
 ### **General problems**
 Before explaining which is the main goal of a tutorial and what it consists of, I think it is important to explain a general problems that happens sometimes.
@@ -34,7 +34,7 @@ As they must be a very short fragment of the game and have to concentrate a lot 
 ### **Tutorial main objective**
 The main objective of a tutorial is to introduce the player all the information that he will need in orther to have a great experience during the game. Within all this information we include the context were the player is going to be inmersed, the mechanics and obviously the controls of the game. 
 
-First of all, the context is necessary to show the player the world where he is going to play, something about the story plot, how is the character or even a basci explanation of the world rules.
+First of all, the context is necessary to show the player the world where he is going to play, something about the story plot, how is the character or even a basic explanation of the world rules.
 
 Secondly, show mechanics to the player is fundamental to show what is he going to do, which are the rules of the game but also let him discover some mechanics by his own.
 
@@ -48,7 +48,7 @@ Let's take a look at different ways of tackling this, from worst to best, and se
 #### --> **No tutorial**
 This is the worst kind of tutorial. Due to some years ago phisycal distribution was the only way of distribution, companies took advantage of it introducing a paper manual where all the controls, mechanics and information of the game were explained. By using this strategy they didn't have to introduce a tutorial in the game itself, players oly had to read the instruction manual.
 
-Nowadays, due to digital distribution is becoming more and more comon this strategy can not be done, so lots of companies decide not to introduce a tutorial and let the players discover how the game works by themselves. In some cases this can work, but in many others players can´t understand some specific aspects of the game, which can affect their experience playing it.
+Nowadays, due to digital distribution is becoming more and more common this strategy can not be done, so lots of companies decide not to introduce a tutorial and let the players discover how the game works by themselves. In some cases this can work, but in many others players can´t understand some specific aspects of the game, which can affect their experience playing it.
 
 A good example is the way stats are handled in Darksiders 2, because like any game with a loot system, has lots of statistics that define the player character. Some are staples of the genre and pretty easy to understand (health, strength, defence), but there is one particular stat (Arcane) that has no obvious meaning and there is no way for the player to know for sure without looking outside the game for information.
 
@@ -56,7 +56,7 @@ A good example is the way stats are handled in Darksiders 2, because like any ga
 
 #### --> **Tutorial by exposition**
 We can define this type of tutorial as the easiest one to implement and one of the least effective. The tutorial by exposition is any tutorial which consists of telling or showing the player how something is done outside of actual gameplay. This includes, but is not limited to, the likes of text explanations prefacing gameplay and the traditional “controls” screen.
-As I said earlier, this type of tutorial is not very effective, and can even cause more confusion than it does clarity. This can be produced by two diferent reeasons:
+As I said earlier, this type of tutorial is not very effective, and can even cause more confusion than it does clarity. This can be produced by two diferent reasons:
 - The first one is because normally when people see this "controls" screens don't want to read it and tend to pass it away.
 - The second one is because even if you spend some time reading it, once the gameplay starts people typically don't remember what they have just read.
 
@@ -70,9 +70,9 @@ A good example of this is just about any Devil May Cry game which, like any othe
 <img src="https://github.com/silvino00/TutorialDesign/blob/master/Images/maxresdefault.jpg?raw=true" height="350">
 
 #### --> **Tutorial room**
-The tutorial room is a section of gameplay that walks the player through the actions they need to know in order to play. This almost always takes place in a separate area or level not seen in any actual gameplay, and is quite frequently optional.
+The tutorial room is a section of gameplay that is walked by the player where the actions he need to know are learned in order to play properly. This almost always takes place in a separate area or level not seen in any actual gameplay, and is quite frequently optional.
 
-When thinking about tutorials, what comes to mind at firstis tutorial's romm type, because it was the most used one during the last console generation, and is also one of the only types of tutorial which is often called a tutorial in-game.
+When thinking about tutorials, what comes to mind at first is tutorial's romm type, because it was the most used one during the last console generation, and is also one of the only types of tutorial which is often called a tutorial in-game.
 
 A perfect example would be the tutorial for Jamestown: Legend of the Lost Colony, an indie scrolling shooter made by Final Form Games.
 This specific tutorial perfectly depicts the essence of the tutorial room and why it can be an effective way of showing a player how your game works. The tutorial is short and everything you are told is clearly demonstrated.
@@ -103,7 +103,7 @@ A tutorial fundamentally shows an explanation of all the rules of the game, show
 
 However, due to their guided nature, video games present an opportunity unseen in most other forms of games: the ability to include the teaching aspect as part of the game itself. That's where not having a tutorial comes in.
 
-Two examples of games that perfectly reflect this type of tutorials and that are more than known in our society are the Super Mario Bross saga and Pacman. None of them have a tutorial but both of them show the players how to play the videogame. In the image below we can see how Super Mario Bross show the players that they can duble jump. What they do is to add a series of coins in such a way that it shows the player that there is an option to take them all. At that moment, the player realizes that there must be a double jump that allows him to perform that specific action.
+Two examples of games that perfectly reflect this type of tutorials and that are more than known in our society are the Super Mario Bross saga and Pacman. None of them have a tutorial but both of them show the players how to play the videogame. In the image below we can see how Super Mario Bross show the players that they can double jump. What they do is to add a series of coins in such a way that it shows the player that there is an option to take them all. At that moment, the player realizes that there must be a double jump that allows him to perform that specific action.
 
 <img src="https://github.com/silvino00/TutorialDesign/blob/master/Images/MarioBros.JPG?raw=true" height="330">
 
@@ -111,12 +111,12 @@ Two examples of games that perfectly reflect this type of tutorials and that are
 In this section I am going to show you some tips to make your tutorial better and make the players not want to pass it.
 
 #### --> **People don't want to be teached**
-Something very important to keep in mind is that when someone run a game only want play. Most of the people come from work, shcool or just a long day of working, so what they want is forget everything and stop paying attention to anything else. So that, the perfect tip would be "Don't teach, but let them learn". A perfect way of doing this is by aplying the tangencial learning, which is a process by which people self-educate if a topic is exposed to them in a context that they already enjoy.
+Something very important to keep in mind is that when someone run a game he/she only wants to play. Most of the people come from work, school or just a long day, so what they want is forget everything and stop paying attention to anything else. So that, the perfect tip would be "Don't teach, but let them learn". A perfect way of doing this is by aplying the tangencial learning, which is a process by which people self-educate if a topic is exposed to them in a context that they already enjoy.
 
 #### --> **Keep the flow going**
 First of all it's important to explain what "flow" in videogames means. We can define it as a mental state where a person is absolutely concentrated, unaware of the surroundings and using every mental process on what they are doing. The objective is that the player does not even realize that he has been playing for two hours.
 
-So, by aplying this concept, our objective is reaching a flowing tutorial by increasing the challenge as the player gets skilled. Put across a challenge. Let the player deal with it. Put another once he has reached the ability to overcome it. Flow between the overwhelm of a new challenge, the light struggle to complete it and the excitement of overcome.
+So, by applying this concept, our objective is reaching a flowing tutorial by increasing the challenge as the player gets skilled. Put across a challenge. Let the player deal with it. Put another once he has reached the ability to overcome it. Flow between the overwhelm of a new challenge, the light struggle to complete it and the excitement of overcome.
 
 <img src="https://github.com/silvino00/TutorialDesign/blob/master/Images/Learning_curve.png?raw=true" height="320">
 
