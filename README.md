@@ -12,7 +12,7 @@ I am [Silvino Medina Cardona](https://www.linkedin.com/in/silvino-medina-cardona
     * [The contextual lesson](https://silvino00.github.io/TutorialDesign/#-the-contextual-lesson)
     * [No tutorial](https://silvino00.github.io/TutorialDesign/#-no-tutorial)
 * [How to make an amazing tutorial](https://silvino00.github.io/TutorialDesign/#how-to-make-an-amazing-tutorial)
-    * [People don't want to be teached](https://silvino00.github.io/TutorialDesign/#-people-don't-want-to-be-teached)
+    * [People don't want to be teached](https://silvino00.github.io/TutorialDesign/#-people-dont-want-to-be-teached)
     * [Keep the flow going](https://silvino00.github.io/TutorialDesign/#-keep-the-flow-going)
     * [Not everyone learns in the same way](https://silvino00.github.io/TutorialDesign/#-not-everyone-learns-in-the-same-way)
     * [Balance the experience](https://silvino00.github.io/TutorialDesign/#-balance-the-experience)
