@@ -103,7 +103,7 @@ However, due to their guided nature, video games present an opportunity unseen i
 
 Two examples of games that perfectly reflect this type of tutorials and that are more than known in our society are the Super Mario Bross saga and Pacman. None of them have a tutorial but both of them show the players how to play the videogame. In the image below we can see how Super Mario Bross show the players that they can duble jump. What they do is to add a series of coins in such a way that it shows the player that there is an option to take them all. At that moment, the player realizes that there must be a double jump that allows him to perform that specific action.
 
-<img src="https://github.com/silvino00/TutorialDesign/blob/master/Images/MarioBros.JPG?raw=true" height="350">
+<img src="https://github.com/silvino00/TutorialDesign/blob/master/Images/MarioBros.JPG?raw=true" height="330">
 
 ### **How to make an amazing tutorial**
 In this section I am going to show you some tips to make your tutorial better and make the players not want to pass it.
@@ -116,7 +116,7 @@ First of all it's important to explain what "flow" in videogames means. We can d
 
 So, by aplying this concept, our objective is reaching a flowing tutorial by increasing the challenge as the player gets skilled. Put across a challenge. Let the player deal with it. Put another once he has reached the ability to overcome it. Flow between the overwhelm of a new challenge, the light struggle to complete it and the excitement of overcome.
 
-<img src="https://github.com/silvino00/TutorialDesign/blob/master/Images/Learning_curve.png?raw=true" height="350">
+<img src="https://github.com/silvino00/TutorialDesign/blob/master/Images/Learning_curve.png?raw=true" height="330">
 
 A perfect example of a perfect learning curve would be Portal. The entire game is basically a tutorial on how to beat it, except it expertly frames the learning as gameplay. Portal challenges by crafting puzzles around new mechanics and new applications of existing mechanics. 
 It allows all the time players need to get comfortable with the controls or to think about how to solve the next puzzle, and it scales the difficulty by simply incrementing the complexity.
