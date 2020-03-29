@@ -1,7 +1,7 @@
 I am [Silvino Medina Cardona](https://www.linkedin.com/in/silvino-medina-cardona-476558197/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Marc Garrigó](https://www.linkedin.com/in/mgarrigo/).
 
 # **The T word that everybody skips**
-### **Inde**
+### **Index**
 * [Introduction](https://silvino00.github.io/TutorialDesign/#introduction)
 * [General problems](https://silvino00.github.io/TutorialDesign/#general-problems)
 * [Tutorial main objective](https://silvino00.github.io/TutorialDesign/#tutorial-main-objective)
