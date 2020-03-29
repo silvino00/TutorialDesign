@@ -1,5 +1,5 @@
 # **The T word that everybody skips**
-### **Index**
+### **Inde**
 * [Introduction](https://silvino00.github.io/TutorialDesign/#introduction)
 * [General problems](https://silvino00.github.io/TutorialDesign/#general-problems)
 * [Tutorial main objective](https://silvino00.github.io/TutorialDesign/#tutorial-main-objective)
