@@ -116,7 +116,7 @@ First of all it's important to explain what "flow" in videogames means. We can d
 
 So, by aplying this concept, our objective is reaching a flowing tutorial by increasing the challenge as the player gets skilled. Put across a challenge. Let the player deal with it. Put another once he has reached the ability to overcome it. Flow between the overwhelm of a new challenge, the light struggle to complete it and the excitement of overcome.
 
-<img src="https://github.com/silvino00/TutorialDesign/blob/master/Images/Learning_curve.png?raw=true" height="330">
+<img src="https://github.com/silvino00/TutorialDesign/blob/master/Images/Learning_curve.png?raw=true" height="320">
 
 A perfect example of a perfect learning curve would be Portal. The entire game is basically a tutorial on how to beat it, except it expertly frames the learning as gameplay. Portal challenges by crafting puzzles around new mechanics and new applications of existing mechanics. 
 It allows all the time players need to get comfortable with the controls or to think about how to solve the next puzzle, and it scales the difficulty by simply incrementing the complexity.
