@@ -50,7 +50,7 @@ Nowadays, due to digital distribution is becoming more and more comon this strat
 
 A good example is the way stats are handled in Darksiders 2, because like any game with a loot system, has lots of statistics that define the player character. Some are staples of the genre and pretty easy to understand (health, strength, defence), but there is one particular stat (Arcane) that has no obvious meaning and there is no way for the player to know for sure without looking outside the game for information.
 
-![Image of Darksiders](https://raw.githubusercontent.com/silvino00/TutorialDesign/master/Images/Darksiders_stats.png) 
+<img src="https://raw.githubusercontent.com/silvino00/TutorialDesign/master/Images/Darksiders_stats.png" height="350">
 
 #### --> **Tutorial by exposition**
 We can define this type of tutorial as the easiest one to implement and one of the least effective. The tutorial by exposition is any tutorial which consists of telling or showing the player how something is done outside of actual gameplay. This includes, but is not limited to, the likes of text explanations prefacing gameplay and the traditional “controls” screen.
@@ -58,14 +58,14 @@ As I said earlier, this type of tutorial is not very effective, and can even cau
 - The first one is because normally when people see this "controls" screens don't want to read it and tend to pass it away.
 - The second one is because even if you spend some time reading it, once the gameplay starts people typically don't remember what they have just read.
 
-![Image of JustCause](https://raw.githubusercontent.com/silvino00/TutorialDesign/master/Images/just_cause_controls.png)
+<img src="https://raw.githubusercontent.com/silvino00/TutorialDesign/master/Images/just_cause_controls.png" height="350">
 
 This leads us to the biggest issue with this tutorial type: context. Mechanics and controls for games can often be quite numerous and complicated, but the player is typically eased into them through the context of relevant gameplay scenarios. Attempting to present the player with most or all of the information up front will simply lead to them not understanding or not remembering most of it.
 The two ways games with this tutorial type typically tackle this issue is to either present particular information only when it is relevant, or to allow their tutorial to be constantly revisited by a menu. Both of these approaches are annoying and hurt pacing by constantly stopping gameplay.
 
 A good example of this is just about any Devil May Cry game which, like any other beat-‘em-up, has a move list. Constantly needing to pause the game to look at this menu and remember the commands required for certain moves is really annoying. Unfortunately, this type of thing can be difficult to avoid, as walking the player through the use of every possible move would be extremely tedious.
 
-![Image of DevilMayCry](https://github.com/silvino00/TutorialDesign/blob/master/Images/maxresdefault.jpg?raw=true)
+<img src="https://github.com/silvino00/TutorialDesign/blob/master/Images/maxresdefault.jpg?raw=true" height="350">
 
 #### --> **Tutorial room**
 The tutorial room is a section of gameplay that walks the player through the actions they need to know in order to play. This almost always takes place in a separate area or level not seen in any actual gameplay, and is quite frequently optional.
@@ -75,7 +75,7 @@ When thinking about tutorials, what comes to mind at firstis tutorial's romm typ
 A perfect example would be the tutorial for Jamestown: Legend of the Lost Colony, an indie scrolling shooter made by Final Form Games.
 This specific tutorial perfectly depicts the essence of the tutorial room and why it can be an effective way of showing a player how your game works. The tutorial is short and everything you are told is clearly demonstrated.
 
-![Jamestown](https://github.com/silvino00/TutorialDesign/blob/master/Images/Jamestown.gif?raw=true)
+<img src="https://github.com/silvino00/TutorialDesign/blob/master/Images/Jamestown.gif?raw=true" height="350">
 
 Althoug this seems the perfect way to do a tutorial, is far from it. It can be a very good way to show players how a game works in simple games with easy and simple mechanics, but in certain types of games with more complex mechanics it may not be as effective.
 
@@ -86,13 +86,13 @@ The biggest drawback of this type of tutorials is that the game will simply wait
 
 A very good example of this type of tutorial is Uncharted 3. in this game, the gameplay is briefly paused and instructions on what buttons perform the action immediately required pop up on screen. This part of the tutorial is incredibly short, because it only presents what you need to know at the specific moment by sending pop ups, and this part of the gameplay has literally no impact in the rest of the game, it is only done for the tutorial.
 
-![Uncharted3](https://github.com/silvino00/TutorialDesign/blob/master/Images/Uncharted_3_Walkthrough.gif?raw=true)
+<img src="https://github.com/silvino00/TutorialDesign/blob/master/Images/Uncharted_3_Walkthrough.gif?raw=true" height="350">
 
 There is a subtype of the contextual lesson type called "The thematically relevant contextual lesson". The difference between both of them is that this subtype is generally presented in a thematically relevant way during gameplay, rather that the usual one used.
 
 This includes things like arrow keys being carved on the back of a cave wall at the beginning of a platformer, or the spacebar and a little jumping guy being drawn on the wall before a platformer's first ledge, or even squad mates telling you how to take cover when you enter your first firefight. This kind of tutorial is awesome because it's incredibly easy to implement and feels really slick, with instructions blending seamlessly with the gameplay experience.
 
-![Spelunky](https://github.com/silvino00/TutorialDesign/blob/master/Images/spelunky_context_tutorial.png?raw=true)
+<img src="https://github.com/silvino00/TutorialDesign/blob/master/Images/spelunky_context_tutorial.png?raw=true" height="350">
 
 #### --> **No tutorial**
 At the begining we started with a tutorial type called "No tutorial", and now we are anding with another one called "No tutorial". It may seem like this doesn't make no sense at all, but it actually has a lot of sense. Just as the first tutorial type is the worst one, having no tutorial at all is also the best, and this has everything to do with the inherent nature of video games.
@@ -103,7 +103,7 @@ However, due to their guided nature, video games present an opportunity unseen i
 
 Two examples of games that perfectly reflect this type of tutorials and that are more than known in our society are the Super Mario Bross saga and Pacman. None of them have a tutorial but both of them show the players how to play the videogame. In the image below we can see how Super Mario Bross show the players that they can duble jump. What they do is to add a series of coins in such a way that it shows the player that there is an option to take them all. At that moment, the player realizes that there must be a double jump that allows him to perform that specific action.
 
-![Mario](https://github.com/silvino00/TutorialDesign/blob/master/Images/MarioBros.JPG?raw=true)
+<img src="https://github.com/silvino00/TutorialDesign/blob/master/Images/MarioBros.JPG?raw=true" height="350">
 
 ### **How to make an amazing tutorial**
 In this section I am going to show you some tips to make your tutorial better and make the players not want to pass it.
@@ -116,13 +116,13 @@ First of all it's important to explain what "flow" in videogames means. We can d
 
 So, by aplying this concept, our objective is reaching a flowing tutorial by increasing the challenge as the player gets skilled. Put across a challenge. Let the player deal with it. Put another once he has reached the ability to overcome it. Flow between the overwhelm of a new challenge, the light struggle to complete it and the excitement of overcome.
 
-![Learning Curve](https://github.com/silvino00/TutorialDesign/blob/master/Images/Learning_curve.png?raw=true)
+<img src="https://github.com/silvino00/TutorialDesign/blob/master/Images/Learning_curve.png?raw=true" height="350">
 
 A perfect example of a perfect learning curve would be Portal. The entire game is basically a tutorial on how to beat it, except it expertly frames the learning as gameplay. Portal challenges by crafting puzzles around new mechanics and new applications of existing mechanics. 
 It allows all the time players need to get comfortable with the controls or to think about how to solve the next puzzle, and it scales the difficulty by simply incrementing the complexity.
 And finally, for me the best about this game is that what you learn by completing one specific puzzle is needed to figure the next one, making it a perfect way to improve your skills in each level.
 
-![Portal](https://github.com/silvino00/TutorialDesign/blob/master/Images/Portal.jpg?raw=true)
+<img src="https://github.com/silvino00/TutorialDesign/blob/master/Images/Portal.jpg?raw=true" height="350">
 
 #### --> **Not everyone learns in the same way**
 A very important thing to take into acount is that not everybody acquire information in the same way, because each person has its own way of learning. This concret topic has been studied by lots of psycchologists and some of them afirm that there are more than 70 ways of learning, but we are going to focus on the Vark model. 
@@ -138,7 +138,7 @@ This concret model identifies 4 differents types of learners: Visual, Auditory, 
 
 - Teach: As it's obvious, the objective is that the player ends up with all things clear, so by letting them learn by themselves this objective will arrive easilly.
 
-![Balance the experience](https://github.com/silvino00/TutorialDesign/blob/master/Images/venn_diagram.png?raw=true)
+<img src="https://github.com/silvino00/TutorialDesign/blob/master/Images/venn_diagram.png?raw=true" height="350">
 
 #### --> **Use mechanics to teach mechanics**
 Instead of teaching a player one specific mechanic of the game by sending him a pop up with a text explaining what to do, it's better to show it to him by an existent mechanic that the player already knows.
