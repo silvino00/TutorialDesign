@@ -1,4 +1,12 @@
 # **The T word that everybody skips**
+### **Index**
+* [Introduction](https://github.com/silvino00/TutorialDesign#introduction)
+* [General problems](https://github.com/silvino00/TutorialDesign#general-problems)
+* [Tutorial types](https://github.com/silvino00/TutorialDesign#tutorial-formats)
+* [How to make an amazing tutorial](https://github.com/silvino00/TutorialDesign#how-to-make-an-amazing-tutorial)
+* [Conclusion](https://github.com/silvino00/TutorialDesign#conclusion)
+* [Bibliography](https://github.com/silvino00/TutorialDesign#bibliography)
+
 ### **Introduction**
 As we all now, the first impresion that a player has with a game is very important, because it can determine whether the player gets engaged with the game and continue playing or leaves the game due to the lack of persuasion and fun of those first minutes.
 Tutorials are most of the times the first thing that comes into contact with the player, so they must provide, apart from the main goal of a tutorial, the suficient persuasion, fun and entertainment to maintain the player engaged with the game.
@@ -20,7 +28,7 @@ Finally, and for me the most important one, is to teach the player how to intera
 
 Apart from all that, it is important to take into account that a tutorial does not necessarilly have to be anchored at the start of the game, because as I said before, the aim is to teach the player all the information needed to have a great experience, which thing can be explained at any point ofthe game.
 
-### **Tutorial Formats**
+### **Tutorial types**
 Let's take a look at different ways of tackling this, from worst to best, and see what we can learn from them.
 
 #### --> **No tutorial**
